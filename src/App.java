@@ -76,10 +76,10 @@ public class App {
     // Testes valor absoluto
     // casos comuns
     // Só existem números absolutos postivos
-    System.out.println(Valor.absoluto(-3) == 3);
-    System.out.println(Valor.absoluto(10) == 10);
-    System.out.println(Valor.absoluto(-4) == 4);
-    System.out.println(Valor.absoluto(-15));
+    System.out.println(Matematica.absoluto(-3) == 3);
+    System.out.println(Matematica.absoluto(10) == 10);
+    System.out.println(Matematica.absoluto(-4) == 4);
+    System.out.println(Matematica.absoluto(-15));
     System.out.println("Metodo Value.AbsoluteValue acima\n");
 
   }
